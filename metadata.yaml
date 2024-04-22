@@ -2,6 +2,9 @@ _repo: Biographical-sketch-of-Millie-Christine-the-Carolina-Twin-b-Surnamed-the-
 _version: 0.1.0
 alternative_title: Millie Christina, the Carolina Twin, born in Columbus Co., North
   Carolina, July 11, 1851
+covers:
+- cover_type: archival
+  image_path: 73204-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anonymous_work
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73204#Biographical-sketch-of-Millie-Christine-the-Carolina-Twin-b-Surnamed-the-Two-headed-Nightinga_
 gutenberg_issued: '2024-03-19'
 gutenberg_type: Text
 identifiers:
